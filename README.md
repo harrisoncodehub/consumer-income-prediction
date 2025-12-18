@@ -1,6 +1,6 @@
 # Predictive Analysis of Consumer Spending
 
-**Authors:** Harrison Hubbard, Levi Sessions, Gabe Anoia 
+**Authors:** Harrison Hubbard, Levi Sessions, Gabe Anoia  
 **Course:** STT-450 — Applied Statistical Methods  
 **Institution:** University of North Carolina Wilmington  
 **Date:** Fall 2025
@@ -43,7 +43,7 @@ Built an end-to-end ML pipeline to analyze consumer behavior and predict income 
 
 ## Repository Structure
 
-```
+\`\`\`
 consumer-income-prediction/
 ├── README.md
 ├── data/                  # Raw and processed datasets
@@ -55,7 +55,7 @@ consumer-income-prediction/
 │       ├── EDA/
 │       └── regression/
 └── slides/                # Presentation slides
-```
+\`\`\`
 
 ## Tech Stack
 
