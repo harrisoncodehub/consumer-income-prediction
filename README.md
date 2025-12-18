@@ -1,6 +1,6 @@
 # Predictive Analysis of Consumer Spending
 
-**Author:** Harrison Hubbard  
+**Authors:** Harrison Hubbard, Levi Sessions, Gabe Anoia 
 **Course:** STT-450 — Applied Statistical Methods  
 **Institution:** University of North Carolina Wilmington  
 **Date:** Fall 2025
