@@ -1,7 +1,7 @@
 # Predictive Analysis of Consumer Spending
 
-**Authors:** Harrison Hubbard, Levi Sessions, Gabe Anoia  
-**Course:** STT-450 — Statistical Machine Learning 
+**Authors:** Harrison Hubbard, Levi Sessions, GabeAnoia  
+**Course:** STT-450 — Statistical Machine Learning  
 **Institution:** University of North Carolina Wilmington  
 **Date:** Fall 2025
 
