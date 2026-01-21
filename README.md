@@ -64,7 +64,7 @@ consumer-income-prediction/
 - **Environment:** Jupyter / Google Colab
 - **R Packages:** Used for regression diagnostics
 
-## Artifacts
+## Reports
 
 - 📄 [Technical Report](paper/Predictive_Analysis_Consumer_Profiles.pdf)
 - 📊 [Presentation Slides](slides/Final.pdf)
